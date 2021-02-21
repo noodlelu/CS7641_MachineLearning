@@ -1,7 +1,8 @@
 CS 7641 Assignment 1: Supervised Learning Classification
+
 This file describes the structure of this assignment submission.
 For testing on your own machine, you need only to install python 3.6.0 and the following packages:
-	•	pandas, numpy, random, scikit-learn, matplotlib, itertools, timeit
+pandas, numpy, random, scikit-learn, matplotlib, itertools, timeit
 
 Dataset
 Dataset1. borrower_table.csv, which is a dataset used in a private project and erased all the confidential data
